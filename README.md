@@ -1,2 +1,2 @@
 # Sample-Project
-Its my first attempt to make respository on github
+This is my respository on github. Hope you like it:)
